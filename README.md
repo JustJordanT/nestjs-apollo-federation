@@ -6,10 +6,13 @@
 
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
+![CleanShot 2024-12-18 at 09 48 01](https://github.com/user-attachments/assets/2ba3e7e0-fa58-4071-bd5d-4db33456a624)
+
+
 ## Description
 
 This is a simple project to demonstrate how to use NestJS to create a GraphQL gateway that connects to multiple GraphQL
-services i.e Apollo [Federation(https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation).
+services i.e [Apollo Federation](https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation).
 The project is based on the [NestJS](https://nestjs.com/)
 
 ## Project setup
